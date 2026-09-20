@@ -5,7 +5,7 @@ head(airquality)
 str(airquality)
 summary(airquality)
 
-# Histogram wind density
+# Histogram wind 
 histogram(airquality$Wind, data = airquality,
           type = "density",
           col = "#00479E",
