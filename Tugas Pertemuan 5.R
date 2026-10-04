@@ -1,7 +1,7 @@
 #TUGAS 5#
 #Komputasi Statistika#
-#Nama : Fanny Az-Zahra Bahruliana
-#NIM : 3338250030
+#Nama : Muhammad Taqi Husaini
+#NIM : 3338250053
 #Kelas :3B
 
 #1.Rata-rata waktu tunggu mu = 5 menit. Berapa peluang P(X > 5)?  (distribusi exponensial)
